@@ -21,7 +21,6 @@ In this repository, you will find a number of files related to Estate By Design:
 > [!TIP]
 > To use DTM data for testing algorithms on terrestrial data
 
-    path_points = []
      
     dataset = r'D:\Internship\dataextraction\0.5m_DSM\N35721E139508_N35651E139595_UM_DSM_25.tif'
     
